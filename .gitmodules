@@ -1,3 +1,6 @@
 [submodule "src/networkLibrary"]
 	path = src/fr/ascol/networkLibrary
 	url = https://github.com/Projet-Informatique-1-cR-bR-fM/networkLibrary.git
+[submodule "src/fr/crusche/networkLibrary"]
+	path = src/fr/crusche/networkLibrary
+	url = https://github.com/Projet-Informatique-1-cR-bR-fM/networkLibrary
