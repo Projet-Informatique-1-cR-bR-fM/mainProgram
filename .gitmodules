@@ -4,3 +4,6 @@
 [submodule "src/fr/crusche/networkLibrary"]
 	path = src/fr/crusche/networkLibrary
 	url = https://github.com/Projet-Informatique-1-cR-bR-fM/networkLibrary
+[submodule "src/fr/crusche/graphicLibrary"]
+	path = src/fr/crusche/graphicLibrary
+	url = https://github.com/Projet-Informatique-1-cR-bR-fM/graphicLibrary
